@@ -1,0 +1,46 @@
+# Core dependencies
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=0.24.2
+torch>=1.9.0
+transformers>=4.11.0
+tensorflow>=2.6.0
+
+# Data collection and processing
+tweepy>=4.0.0
+praw>=7.4.0
+python-telegram-bot>=13.7
+discord.py>=2.0.0
+beautifulsoup4>=4.9.3
+requests>=2.26.0
+
+# Web framework and visualization
+streamlit>=0.85.0
+plotly>=5.3.0
+dash>=2.0.0
+dash-bootstrap-components>=1.0.0
+
+# Data analysis and ML
+statsmodels>=0.13.0
+scipy>=1.7.0
+nltk>=3.6.0
+spacy>=3.1.0
+textblob>=0.17.1
+
+# Database
+sqlalchemy>=1.4.0
+pymongo>=3.12.0
+
+# API and async
+fastapi>=0.68.0
+uvicorn>=0.15.0
+aiohttp>=3.8.0
+
+# Testing and development
+pytest>=6.2.5
+black>=21.7b0
+flake8>=3.9.0
+
+# PDF export
+reportlab>=3.6.0
+fpdf>=1.7.2 
