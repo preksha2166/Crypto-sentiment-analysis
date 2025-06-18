@@ -118,7 +118,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](./LICEN
 
 ## 📬 Contact
 
-* **Preksha Dewoolkar** – [LinkedIn](https://linkedin.com/in/PrekshaDewoolkar) | [GitHub](https://github.com/preksha2166)
+* **Preksha Dewoolkar** – [LinkedIn](https://linkedin.com/in/preksha-prashant-dewoolkar-2224512a9) | [GitHub](https://github.com/preksha2166)
 * **Chirag Patankar** – [LinkedIn](https://linkedin.com/in/chiragpatankar) | [GitHub](https://github.com/ChiragPatankar)
 
 ---
